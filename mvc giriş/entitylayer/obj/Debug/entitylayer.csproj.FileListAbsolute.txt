@@ -1,0 +1,12 @@
+C:\Users\aunal\source\repos\mvc giriş\entitylayer\bin\Debug\entitylayer.dll.config
+C:\Users\aunal\source\repos\mvc giriş\entitylayer\bin\Debug\entitylayer.dll
+C:\Users\aunal\source\repos\mvc giriş\entitylayer\bin\Debug\entitylayer.pdb
+C:\Users\aunal\source\repos\mvc giriş\entitylayer\bin\Debug\EntityFramework.dll
+C:\Users\aunal\source\repos\mvc giriş\entitylayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aunal\source\repos\mvc giriş\entitylayer\bin\Debug\EntityFramework.xml
+C:\Users\aunal\source\repos\mvc giriş\entitylayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aunal\source\repos\mvc giriş\entitylayer\obj\Debug\entitylayer.csproj.AssemblyReference.cache
+C:\Users\aunal\source\repos\mvc giriş\entitylayer\obj\Debug\entitylayer.csproj.CoreCompileInputs.cache
+C:\Users\aunal\source\repos\mvc giriş\entitylayer\obj\Debug\entitylayer.csproj.CopyComplete
+C:\Users\aunal\source\repos\mvc giriş\entitylayer\obj\Debug\entitylayer.dll
+C:\Users\aunal\source\repos\mvc giriş\entitylayer\obj\Debug\entitylayer.pdb

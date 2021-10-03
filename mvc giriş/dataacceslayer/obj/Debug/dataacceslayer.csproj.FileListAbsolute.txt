@@ -1,0 +1,17 @@
+C:\Users\aunal\source\repos\mvc giriş\dataacceslayer\bin\Debug\dataacceslayer.dll.config
+C:\Users\aunal\source\repos\mvc giriş\dataacceslayer\bin\Debug\dataacceslayer.dll
+C:\Users\aunal\source\repos\mvc giriş\dataacceslayer\bin\Debug\dataacceslayer.pdb
+C:\Users\aunal\source\repos\mvc giriş\dataacceslayer\bin\Debug\EntityFramework.dll
+C:\Users\aunal\source\repos\mvc giriş\dataacceslayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aunal\source\repos\mvc giriş\dataacceslayer\bin\Debug\entitylayer.dll
+C:\Users\aunal\source\repos\mvc giriş\dataacceslayer\bin\Debug\entitylayer.pdb
+C:\Users\aunal\source\repos\mvc giriş\dataacceslayer\bin\Debug\entitylayer.dll.config
+C:\Users\aunal\source\repos\mvc giriş\dataacceslayer\bin\Debug\EntityFramework.xml
+C:\Users\aunal\source\repos\mvc giriş\dataacceslayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aunal\source\repos\mvc giriş\dataacceslayer\obj\Debug\dataacceslayer.csproj.AssemblyReference.cache
+C:\Users\aunal\source\repos\mvc giriş\dataacceslayer\obj\Debug\dataacceslayer.csproj.CoreCompileInputs.cache
+C:\Users\aunal\source\repos\mvc giriş\dataacceslayer\obj\Debug\dataacceslayer.csproj.CopyComplete
+C:\Users\aunal\source\repos\mvc giriş\dataacceslayer\obj\Debug\dataacceslayer.dll
+C:\Users\aunal\source\repos\mvc giriş\dataacceslayer\obj\Debug\dataacceslayer.pdb
+C:\Users\aunal\source\repos\mvc giriş\dataacceslayer\obj\Debug\dataacceslayer.Migrations.mig1.resources
+C:\Users\aunal\source\repos\mvc giriş\dataacceslayer\obj\Debug\dataacceslayer.csproj.GenerateResource.cache
